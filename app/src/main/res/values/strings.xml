@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuestionnaireProject</string>
+    <string-array name="genre">
+        <item>China</item>
+        <item>Computer</item>
+    </string-array>
+</resources>
